@@ -1,2 +1,80 @@
-# Password-cracker-
- Description  This project is an educational password-cracking simulator designed to demonstrate how weak passwords can be vulnerable to attacks such as brute force and dictionary attacks.    ⚠️ Disclaimer: This tool is created strictly for educational and ethical cybersecurity learning. It should only be used you have permission to test.
+🔐 Educational Password Cracker
+
+A cybersecurity learning tool that demonstrates how weak passwords can be compromised using common attack techniques.
+
+🚀 Overview
+
+This project is an educational password-cracking simulator created to help students and developers understand how attackers attempt to guess passwords and why strong password practices are critical.
+
+The tool demonstrates brute-force and dictionary attacks in a controlled environment to show how password strength directly affects security.
+
+⚠️ Important:
+This project is intended only for ethical learning and cybersecurity education.
+
+🎯 Features
+
+🔑 Brute Force Simulation
+Attempts every possible character combination.
+
+📚 Dictionary Attack
+Uses a wordlist of commonly used passwords.
+
+⚡ Real-Time Attempt Counter
+Displays cracking attempts per second.
+
+🖥️ Hacker-Style Terminal Output
+Shows progress in a cybersecurity-themed interface.
+
+📊 Password Strength Demonstration
+Helps visualize how password length and complexity affect security.
+
+⏱️ Time-to-Crack Estimation
+
+🛠️ Technologies Used
+
+Python
+
+Hashlib
+
+Wordlists
+
+Terminal Interface
+
+python main.py
+📖 Learning Objectives
+
+This project helps demonstrate:
+
+Password cracking techniques
+
+Brute force attacks
+
+Dictionary attacks
+
+Password hashing concepts
+
+Cybersecurity fundamentals
+
+⚠️ Disclaimer
+
+This software is provided for educational and research purposes only.
+
+Do not use this tool on systems, accounts, or networks without explicit permission.
+The author is not responsible for any misuse of this software.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Ahsaan
+Student • Tech Enthusiast • Cybersecurity Learner
+
+⭐ Support
+
+If you found this project useful:
+
+⭐ Star the repository
+🍴 Fork the project
+📢 Share with others learning cybersecurity
