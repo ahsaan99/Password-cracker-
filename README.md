@@ -1,4 +1,5 @@
 🔐 Educational Password Cracker
+<img width="1095" height="768" alt="image" src="https://github.com/user-attachments/assets/4ff70ea9-c0b7-420b-8d46-5e2b1745c791" />
 
 A cybersecurity learning tool that demonstrates how weak passwords can be compromised using common attack techniques.
 
