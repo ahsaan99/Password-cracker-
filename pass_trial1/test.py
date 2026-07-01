@@ -21,7 +21,7 @@ class AutoBrowserCracker:
         self.chars = "abcdefghijklmnopqrstuvwxyz0123456789!@#"
         self.password_list = [
             "password", "123456", "admin", "letmein", "1ahsaan123", "monkey", "12345678", 
-            "abc123", "password123", "admin123", "test", "test123", "pass", "pass123",
+            "abc123", "password123", "admin123", "test", "tes123", "pass", "pass123",
             "user", "user123", "login", "qwerty", "dragon", "master"
         ]
         
