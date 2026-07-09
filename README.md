@@ -72,7 +72,7 @@ This project is licensed under the MIT License.
 Ahsaan
 Student • Tech Enthusiast • Cybersecurity Learner
 
-⭐ Support
+⭐ Supports
 
 If you found this project useful:
 
