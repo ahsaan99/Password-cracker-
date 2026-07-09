@@ -3,7 +3,7 @@
 
 A cybersecurity learning tool that demonstrates how weak passwords can be compromised using common attack techniques.
 
-🚀 Overview
+🚀  Overview
 
 This project is an educational password-cracking siimulator created to help students and developers understand how attackers attempt to guess passwords and why strong password practices are critical.
 
