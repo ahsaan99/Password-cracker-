@@ -5,7 +5,7 @@ A cybersecurity learning tool that demonstrates how weak passwords can be compro
 
 🚀 Overview
 
-This project is an educational password-cracking simulator created to help students and developers understand how attackers attempt to guess passwords and why strong password practices are critical.
+This project is an educational password-cracking siimulator created to help students and developers understand how attackers attempt to guess passwords and why strong password practices are critical.
 
 The tool demonstrates brute-force and dictionary attacks in a controlled environment to show how password strength directly affects security.
 
