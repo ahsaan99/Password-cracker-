@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Educational%20Password%20Cracker&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=A%20Cybersecurity%20Learning%20Tool&descAlignY=58&descSize=18" />
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:0D1F0D,100:00FF9C&height=220&section=header&text=Educational%20Password%20Cracker&fontSize=42&fontColor=00FF9C&animation=fadeIn&fontAlignY=38&desc=A%20Cybersecurity%20Learning%20Tool&descAlignY=58&descSize=18&descColor=39FF14" />
 
 <!-- Animated typing subtitle -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=Simulating+Brute+Force+Attacks...;Cracking+Weak+Passwords...+Ethically;Learn+How+Attackers+Think+%F0%9F%94%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Simulating+Brute+Force+Attacks...;Cracking+Weak+Passwords...+Ethically;Learn+How+Attackers+Think+%F0%9F%94%92" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Badges -->
 <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/License-MIT-00FF9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-39FF14?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Purpose-Educational%20Only-red?style=for-the-badge&logo=shieldsdotio" />
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
@@ -112,5 +112,7 @@ If you found this project useful:
 - 📢 Share with others learning cybersecurity
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:00FF9C,50:0D1F0D,100:000000&height=120&section=footer" />
+
 </div>
