@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀  Overview
+## 🚀 Overview
 
 This project is an educational password-cracking simulator created to help students and developers understand how attackers attempt to guess passwords, and why strong password practices are critical.
 
